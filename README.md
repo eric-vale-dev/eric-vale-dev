@@ -4,8 +4,8 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 60px></picture> About me
 👨‍💻 &nbsp;I am a Junior Software Engineer focused on multi-platform applications and Full-Stack web solutions. \
-💡 &nbsp;I like to explore new technologies, build robust backends [cite: 4][cite_start], and design clean user interfaces using Angular and Flutter. \
-🎓 &nbsp;I'm currently studying Computer Science at Benemérita Universidad Autónoma de Puebla (BUAP). \
+💡 &nbsp;I like to explore new technologies, build robust backends, and design clean user interfaces using Angular and Flutter. \
+🎓 &nbsp;I hold a degree in Computer Science from the Benemérita Universidad Autónoma de Puebla (BUAP).. \
 🌱 &nbsp;I'm currently deep diving into C# (.NET), embedded systems, and optimizing SQL databases. \
 ✍️ &nbsp;In my free time, I love customizing my Linux environment and working on freelance web development projects. \
 💬 &nbsp;Feel free to reach out to me for freelance projects, collaborations, or just for some interesting tech discussions. \
