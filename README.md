@@ -4,15 +4,15 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 60px></picture> Sobre mí
 
-Ingeniero de Software Junior enfocado en el desarrollo de aplicaciones multiplataforma y soluciones web Full Stack[cite: 1]. Tengo experiencia diseñando interfaces con Flutter y Angular, y construyendo backends robustos en C# (.NET), Django y NestJS[cite: 1]. Poseo un dominio avanzado de Linux y gestión de bases de datos SQL[cite: 1].
+Ingeniero de Software Junior enfocado en el desarrollo de aplicaciones multiplataforma y soluciones web Full Stack. Tengo experiencia diseñando interfaces con Flutter y Angular, y construyendo backends robustos en C# (.NET), Django y NestJS. Poseo un dominio avanzado de Linux y gestión de bases de datos SQL.
 
-👨‍💻 &nbsp;**Stack Principal:** Angular (19+, Signals), Flutter, C#, NestJS, Django, PHP[cite: 1].
-🚀 &nbsp;**Proyectos Recientes:** Desarrollo de plataformas escalables, sistemas ERP/PWA para gestión interna, y plataformas de Punto de Venta[cite: 1].
-🔧 &nbsp;**Herramientas:** Git, Docker, GitHub Actions, CI/CD, bases de datos relacionales (PostgreSQL, MySQL)[cite: 1].
-🎓 &nbsp;**Educación:** Ingeniería en Ciencias de la Computación por la Benemérita Universidad Autónoma de Puebla (BUAP)[cite: 1].
-🌱 &nbsp;**Intereses:** Optimización de recursos, calidad del software en entornos ágiles[cite: 1] y personalización de entornos Linux (Fedora/Ubuntu).
-💬 &nbsp;Abierto a colaboraciones, proyectos freelance o discusiones sobre tecnología.
-✉️ &nbsp;Contáctame en: eric.alfonso.vale@gmail.com[cite: 1]
+👨‍💻 &nbsp;**Stack Principal:** Angular (19+, Signals), Flutter, C#, NestJS, Django, PHP \
+🚀 &nbsp;**Proyectos Recientes:** Desarrollo de ecosistemas escalables (Mundo Terapeuta), sistemas ERP/PWA para gestión interna, y plataformas de Punto de Venta \
+🔧 &nbsp;**Herramientas:** Git, Docker, GitHub Actions, CI/CD, bases de datos relacionales (PostgreSQL, MySQL) \
+🎓 &nbsp;**Educación:** Ingeniería en Ciencias de la Computación por la Benemérita Universidad Autónoma de Puebla (BUAP) \
+🌱 &nbsp;**Intereses:** Optimización de recursos, calidad del software en entornos ágiles y personalización de entornos Linux (Fedora/Ubuntu) \
+💬 &nbsp;Abierto a colaboraciones, proyectos freelance o discusiones sobre tecnología. \
+✉️ &nbsp;Contáctame en: eric.alfonso.vale@gmail.com
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHY2bTY4Mnk2NXhzOGt2eTcxeWtyY2diYmdpd2w4NHBwNnE5bDdiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cjHwNDHWErY8iEm3e3/giphy.gif" width="300" alt="Blastoise" />
