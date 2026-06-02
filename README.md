@@ -7,7 +7,7 @@
 Ingeniero de Software Junior enfocado en el desarrollo de aplicaciones multiplataforma y soluciones web Full Stack. Tengo experiencia diseñando interfaces con Flutter y Angular, y construyendo backends robustos en C# (.NET), Django y NestJS. Poseo un dominio avanzado de Linux y gestión de bases de datos SQL.
 
 👨‍💻 &nbsp;**Stack Principal:** Angular (19+, Signals), Flutter, C#, NestJS, Django, PHP \
-🚀 &nbsp;**Proyectos Recientes:** Desarrollo de ecosistemas escalables (Mundo Terapeuta), sistemas ERP/PWA para gestión interna, y plataformas de Punto de Venta \
+🚀 &nbsp;**Proyectos Recientes:** Desarrollo de ecosistemas escalables, sistemas ERP adaptados a una PWA y plataformas de Punto de Venta \
 🔧 &nbsp;**Herramientas:** Git, Docker, GitHub Actions, CI/CD, bases de datos relacionales (PostgreSQL, MySQL) \
 🎓 &nbsp;**Educación:** Ingeniería en Ciencias de la Computación por la Benemérita Universidad Autónoma de Puebla (BUAP) \
 🌱 &nbsp;**Intereses:** Optimización de recursos, calidad del software en entornos ágiles y personalización de entornos Linux (Fedora/Ubuntu) \
