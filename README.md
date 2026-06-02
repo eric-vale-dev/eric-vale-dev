@@ -2,14 +2,17 @@
 <p align="center">
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 60px></picture> About me
-👨‍💻 &nbsp;I am a Junior Software Engineer focused on multi-platform applications and Full-Stack web solutions. \
-💡 &nbsp;I like to explore new technologies, build robust backends, and design clean user interfaces using Angular and Flutter. \
-🎓 &nbsp;I hold a degree in Computer Science from the Benemérita Universidad Autónoma de Puebla (BUAP).. \
-🌱 &nbsp;I'm currently deep diving into C# (.NET), embedded systems, and optimizing SQL databases. \
-✍️ &nbsp;In my free time, I love customizing my Linux environment and working on freelance web development projects. \
-💬 &nbsp;Feel free to reach out to me for freelance projects, collaborations, or just for some interesting tech discussions. \
-✉️ &nbsp;You can shoot me an email at eric.alfonso.vale@gmail.com! I'll try to respond as soon as I can.
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 60px></picture> Sobre mí
+
+Ingeniero de Software Junior enfocado en el desarrollo de aplicaciones multiplataforma y soluciones web Full Stack[cite: 1]. Tengo experiencia diseñando interfaces con Flutter y Angular, y construyendo backends robustos en C# (.NET), Django y NestJS[cite: 1]. Poseo un dominio avanzado de Linux y gestión de bases de datos SQL[cite: 1].
+
+👨‍💻 &nbsp;**Stack Principal:** Angular (19+, Signals), Flutter, C#, NestJS, Django, PHP[cite: 1].
+🚀 &nbsp;**Proyectos Recientes:** Desarrollo de plataformas escalables, sistemas ERP/PWA para gestión interna, y plataformas de Punto de Venta[cite: 1].
+🔧 &nbsp;**Herramientas:** Git, Docker, GitHub Actions, CI/CD, bases de datos relacionales (PostgreSQL, MySQL)[cite: 1].
+🎓 &nbsp;**Educación:** Ingeniería en Ciencias de la Computación por la Benemérita Universidad Autónoma de Puebla (BUAP)[cite: 1].
+🌱 &nbsp;**Intereses:** Optimización de recursos, calidad del software en entornos ágiles[cite: 1] y personalización de entornos Linux (Fedora/Ubuntu).
+💬 &nbsp;Abierto a colaboraciones, proyectos freelance o discusiones sobre tecnología.
+✉️ &nbsp;Contáctame en: eric.alfonso.vale@gmail.com[cite: 1]
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHY2bTY4Mnk2NXhzOGt2eTcxeWtyY2diYmdpd2w4NHBwNnE5bDdiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cjHwNDHWErY8iEm3e3/giphy.gif" width="300" alt="Blastoise" />
