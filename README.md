@@ -4,7 +4,7 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 60px></picture> Sobre mí
 
-Ingeniero de Software Junior enfocado en el desarrollo de aplicaciones multiplataforma y soluciones web Full Stack. Tengo experiencia diseñando interfaces con Flutter y Angular, y construyendo backends robustos en C# (.NET), Django y NestJS. Poseo un dominio avanzado de Linux y gestión de bases de datos SQL.
+Ingeniero de Software enfocado en el desarrollo de aplicaciones multiplataforma y soluciones web Full Stack. Tengo experiencia diseñando interfaces con Flutter y Angular, y construyendo backends robustos en C# (.NET), Django y NestJS. Poseo un dominio avanzado de Linux y gestión de bases de datos SQL.
 
 👨‍💻 &nbsp;**Stack Principal:** Angular (19+, Signals), Flutter, C#, NestJS, Django, PHP \
 🚀 &nbsp;**Proyectos Recientes:** Desarrollo de ecosistemas escalables, sistemas ERP adaptados a una PWA y plataformas de Punto de Venta \
